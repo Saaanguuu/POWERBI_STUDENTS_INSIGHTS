@@ -54,15 +54,7 @@ The Student Insights Dashboard is an interactive Power BI project designed to an
 - Dashboard Design
 - Data Visualization
 - Business Intelligence
-
-## Demo Video
-
-Watch the complete walkthrough of the **Student Insights Dashboard** here:
-
-📺 **Project Demo:** "C:\Users\SA\Videos\Screen Recordings\Screen Recording 2026-06-13 194754.mp4"
-> *The video demonstrates the dashboard's interactive features, KPIs, filters, charts, maps, and key insights.*
-
-
+  
 ##  Author
 **Sangeetha**
 
