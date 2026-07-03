@@ -1,9 +1,9 @@
-# 📊 Student Insights Dashboard - Power BI
+#  Student Insights Dashboard - Power BI
 
-## 📌 Overview
+##  Overview
 The Student Insights Dashboard is an interactive Power BI project designed to analyze student data and provide meaningful insights into attendance, academic performance, parent satisfaction, class distribution, and nationality. The dashboard helps educators and administrators make data-driven decisions through interactive visualizations.
 
-## 🚀 Features
+##  Features
 - Total Students KPI
 - Class Count Analysis
 - Under-17 Absentees Analysis
@@ -16,16 +16,16 @@ The Student Insights Dashboard is an interactive Power BI project designed to an
 - Interactive Filters and Slicers
 - Student Target Gauge
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 > Add a screenshot of your dashboard here.
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI Desktop
 - Power Query
 - DAX
 - Data Modeling
 
-## 📈 Visualizations
+##  Visualizations
 - KPI Cards
 - Line Chart
 - Bar Chart
@@ -36,23 +36,17 @@ The Student Insights Dashboard is an interactive Power BI project designed to an
 - Table
 - Slicers
 
-## 📊 Key Insights
+##  Key Insights
 - Tracks student attendance and absenteeism.
 - Analyzes parent satisfaction levels.
 - Compares class-wise student distribution.
 - Visualizes student nationality across countries.
 - Provides subject-wise student analysis.
 
-## 📂 Project Structure
-```
-Student_Insights_Dashboard/
-│── Dashboard.pbix
-│── Dataset.xlsx
-│── Dashboard.png
-└── README.md
-```
 
-## 🎯 Skills Demonstrated
+
+
+##  Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Modeling
@@ -61,7 +55,7 @@ Student_Insights_Dashboard/
 - Data Visualization
 - Business Intelligence
 
-## 👩‍💻 Author
-**Sangeetha **
+##  Author
+**Sangeetha**
 
-GitHub: https://github.com/Saaanguuu
+
